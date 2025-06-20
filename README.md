@@ -1,4 +1,4 @@
-# `supercompilation-resources`
+# 📚 `supercompilation-resources`
 
 _Supercompilation_ is an principiled program transformation technique that symbolically evaluates a given input program into its more efficient version, eliminating as much of computational overhead as possible. From a given program it builds a _process graph_ of dynamically encountered _configurations_ (expressions with unknown variables), converts loops into special edges between the configurations, & finally _residualizes_ the process graph into a structurally simpler output program in the same or different language. Furthermore, with suitable extensions it can achieve _asymptotic speedups_ for some functional algorithms.
 
@@ -100,16 +100,16 @@ This is a collection of resources for studying supercompilation & its applicatio
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/1594834.1480916)
  - Klyuchnikov, Ilya, and Sergei Romanenko. "Proving the equivalence of higher-order terms by means of supercompilation." International Andrei Ershov Memorial Conference on Perspectives of System Informatics. Berlin, Heidelberg: Springer Berlin Heidelberg, 2009.
    <br>[URL](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=67d5073533eeb41380d278c61957288baaac0a90), [webarchive](http://web.archive.org/web/20250620143718/https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=67d5073533eeb41380d278c61957288baaac0a90)
- - Klyuchnikov, Ilya, and Sergei Romanenko. "SPSC: a simple supercompiler in Scala." PU 9 (2009): 5.
+ - Klyuchnikov, Ilya, and Sergei Romanenko. "SPSC: a simple supercompiler in Scala." PU 9 (2009): 5. $${\textbf{\color{pink}implementation}}$$
    <br>[URL](https://google-code-archive-downloads.storage.googleapis.com/v2/code.google.com/spsc/Klyuchnikov__Romanenko__SPSC_a_Simple_Supercompiler_in_Scala.pdf), [webarchive](http://web.archive.org/web/20250620143652/https://google-code-archive-downloads.storage.googleapis.com/v2/code.google.com/spsc/Klyuchnikov__Romanenko__SPSC_a_Simple_Supercompiler_in_Scala.pdf)
- - Reich, Jason S. Optimus Prime: A new tool for interactive transformation and supercompilation of functional programs. Diss. Masters dissertation, University of York, UK, 2009.
+ - Reich, Jason S. Optimus Prime: A new tool for interactive transformation and supercompilation of functional programs. Diss. Masters dissertation, University of York, UK, 2009. $${\textbf{\color{pink}implementation}}$$
    <br>[URL](https://www.academia.edu/download/101185901/ReichMD2009.pdf)
  - Klimov, Andrei V. "A Java supercompiler and its application to verification of cache-coherence protocols." International Andrei Ershov Memorial Conference on Perspectives of System Informatics. Berlin, Heidelberg: Springer Berlin Heidelberg, 2009. $${\textbf{\color{lightblue}practical}}$$
    <br>[URL](https://pat.keldysh.ru/~anklimov/papers/2009-Klimov--A_Java_Supercompiler_and_its_Application_to_Verification_of_Cache-Coherence_Protocols--slides.pdf)
 
 ### 2010
 
- - Bolingbroke, Maximilian, and Simon Peyton Jones. "Supercompilation by evaluation." Proceedings of the third ACM Haskell symposium on Haskell. 2010. $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{lightgreen}introductory}}$$
+ - Bolingbroke, Maximilian, and Simon Peyton Jones. "Supercompilation by evaluation." Proceedings of the third ACM Haskell symposium on Haskell. 2010. $${\textbf{\color{pink}implementation}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{lightgreen}introductory}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/1863523.1863540)
  - Jonsson, Peter, and Johan Nordlander. "Strengthening supercompilation for call-by-value languages." International Valentin Turchin Memorial Workshop on Metacomputation in Russia: 01/07/2010-05/07/2010. Ailamazyan University of Pereslavl, 2010.
    <br>[URL](https://www.diva-portal.org/smash/get/diva2:1005200/FULLTEXT01.pdf), [webarchive](http://web.archive.org/web/20250620144753/https://www.diva-portal.org/smash/get/diva2:1005200/FULLTEXT01.pdf)
@@ -117,7 +117,7 @@ This is a collection of resources for studying supercompilation & its applicatio
    <br>[URL](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=dffa6ae2bc5ca62453930895d94c25a158136b84)
  - Klyuchnikov, Ilya Grigorievich. "Supercompiler HOSC 1.5: homeomorphic embedding and generalization in a higher-order setting." Keldysh Institute Preprints 62 (2010): 1-23.
    <br>[URL](https://pat.keldysh.ru/~ilya/preprints/HOSC15_en.pdf), [webarchive](http://web.archive.org/web/20250620144833/https://pat.keldysh.ru/~ilya/preprints/HOSC15_en.pdf)
- - Mitchell, Neil. "Rethinking supercompilation." ACM Sigplan Notices 45.9 (2010): 309-320. $${\textbf{\color{violet}inspirational}}$$
+ - Mitchell, Neil. "Rethinking supercompilation." ACM Sigplan Notices 45.9 (2010): 309-320. $${\textbf{\color{pink}implementation}}$$ $${\textbf{\color{violet}inspirational}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/1932681.1863588)
  - Klyuchnikov, Ilya Grigorievich. "Towards effective two-level supercompilation." Препринты Института прикладной математики им. МВ Келдыша РАН 0 (2010): 81-28.
    <br>[URL](https://www.keldysh.ru/papers/2010/source/prep2010_81_eng.pdf), [webarchive](http://web.archive.org/web/20240719160513/https://keldysh.ru/papers/2010/source/prep2010_81_eng.pdf)
@@ -150,12 +150,12 @@ This is a collection of resources for studying supercompilation & its applicatio
    <br>[URL](https://easychair.org/publications/download/FJ), [webarchive](http://web.archive.org/web/20240816162329/https://easychair.org/publications/download/FJ)
  - Grechanik, Sergei Aleksandrovich. "Supercompilation by hypergraph transformation." Препринты Института прикладной математики им. МВ Келдыша РАН 0 (2013): 26-24. $${\textbf{\color{crimson}advanced}}$$
    <br>[URL](https://www.keldysh.ru/papers/2013/prep2013_26.pdf), [webarchive](http://web.archive.org/web/20250620145957/https://www.keldysh.ru/papers/2013/prep2013_26.pdf)
- - Bolingbroke, Maximilian C. Call-by-need supercompilation. No. UCAM-CL-TR-835. University of Cambridge, Computer Laboratory, 2013.
+ - Bolingbroke, Maximilian C. Call-by-need supercompilation. No. UCAM-CL-TR-835. University of Cambridge, Computer Laboratory, 2013. $${\textbf{\color{gold}popular}}$$
    <br>[URL](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/bolingbroke-thesis.pdf), [webarchive](http://web.archive.org/web/20240713223911/https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/bolingbroke-thesis.pdf)
 
 ### 2014
 
- - Klyuchnikov, Ilya, and Dimitur Krustev. "Supercompilation: Ideas and methods." The Monad. Reader Issue 23 (2014): 17. $${\textbf{\color{lightgreen}introductory}}$$
+ - Klyuchnikov, Ilya, and Dimitur Krustev. "Supercompilation: Ideas and methods." The Monad. Reader Issue 23 (2014): 17. $${\textbf{\color{pink}implementation}}$$ $${\textbf{\color{lightgreen}introductory}}$$
    <br>[URL](https://themonadreader.wordpress.com/wp-content/uploads/2014/04/issue23.pdf#page=17), [webarchive](http://web.archive.org/web/20250608174431/https://themonadreader.wordpress.com/wp-content/uploads/2014/04/issue23.pdf#page=17)
  - Mogensen, Torben Ægidius. "Supercompilation for Datatypes." International Andrei Ershov Memorial Conference on Perspectives of System Informatics. Berlin, Heidelberg: Springer Berlin Heidelberg, 2014. $${\textbf{\color{violet}inspirational}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/978-3-662-46823-4_19), [webarchive](http://web.archive.org/web/20250620150249/https://link.springer.com/chapter/10.1007/978-3-662-46823-4_19)
@@ -219,6 +219,8 @@ This is a collection of resources for studying supercompilation & its applicatio
    <br>[URL](http://www.botik.ru/~znamensk/sbornik/meta-2008/meta2008_submission_3.pdf), [webarchive](http://web.archive.org/web/20250620151638/http://www.botik.ru/~znamensk/sbornik/meta-2008/meta2008_submission_3.pdf)
  - Mendel-Gleason, Gavin E., and Geoff W. Hamilton. "Supercompilation and normalisation by evaluation." (2010).
    <br>[URL](http://meta2010.pereslavl.ru/accepted-papers/meta2010-Gavin-Mendel-Gleason-Geoff-Hamilton.pdf), [webarchive](http://web.archive.org/web/20250512144830/http://meta2010.pereslavl.ru/accepted-papers/meta2010-Gavin-Mendel-Gleason-Geoff-Hamilton.pdf)
+ - Jones, Neil D., and Geoff W. Hamilton. "Superlinear speedup by program transformation." Third International Valentin Turchin Workshop on Metacomputation. 2012.
+   <br>[URL](http://meta2012.pereslavl.ru/papers/2012_Jones_Hamilton__Superlinear_Speedup_by_Program_Transformation__slides.pdf), [webarchive](http://web.archive.org/web/20240810042154/http://meta2012.pereslavl.ru/papers/2012_Jones_Hamilton__Superlinear_Speedup_by_Program_Transformation__slides.pdf)
 
 ## META workshops
 
