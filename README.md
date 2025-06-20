@@ -11,6 +11,7 @@ This is a collection of resources for studying supercompilation & its applicatio
  - [JSCP](http://supercompilers.org/) -- A supercompiler for the Java programming language.
  - [MRSC](https://github.com/ilya-klyuchnikov/mrsc) -- A toolkit for rapid design and prototyping of (multi-result) supercompilers.
  - [TT-Lite](https://github.com/ilya-klyuchnikov/ttlite) -- A supercompiler for a version of Martin-Löf’s Type Theory (MLTT).
+ - [sc-mini](https://github.com/ilya-klyuchnikov/sc-mini) -- A minimal positive supercompiler written in Haskell.
  - [erlscp](https://github.com/fenollp/erlscp) -- A supercompiler pass for the Erlang programming language.
  - [agda-simple-scp](https://github.com/sergei-romanenko/agda-simple-scp) -- A simple supercompiler formally verified in Agda.
  - [Mazeppa](https://github.com/mazeppa-dev/mazeppa) -- A modern supercompiler for call-by-value functional languages.
