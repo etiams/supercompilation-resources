@@ -1,4 +1,4 @@
-# Resources on supercompilation
+# `supercompilation-resources`
 
 _Supercompilation_ is an principiled program transformation technique that symbolically evaluates a given input program into its more efficient version, eliminating as much of computational overhead as possible. From a given program it builds a _process graph_ of dynamically encountered _configurations_ (expressions with unknown variables), converts loops into special edges between the configurations, & finally _residualizes_ the process graph into a structurally simpler output program in the same or different language. Furthermore, with suitable extensions it can achieve _asymptotic speedups_ for some functional algorithms.
 
