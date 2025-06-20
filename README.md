@@ -173,7 +173,7 @@ This is a collection of resources for studying supercompilation & its applicatio
  - Glück, Robert, Andrei Klimov, and Antonina Nepeivoda. "Nonlinear Configurations for Superlinear Speedup by Supercompilation." Fifth International Valentin Turchin Workshop on Metacomputation. 2016. $${\textbf{\color{violet}inspirational}}$$
    <br>[URL](http://meta2016.pereslavl.ru/papers/2016_Proceedings_of_the_Fifth_International_Valentin_Turchin_Workshop_on_Metacomputation.pdf#page=32), [webarchive](http://web.archive.org/web/20250511224105/http://meta2016.pereslavl.ru/papers/2016_Proceedings_of_the_Fifth_International_Valentin_Turchin_Workshop_on_Metacomputation.pdf#page=32)
  - Grechanik, Sergei. "Towards Unification of Supercompilation and Equality Saturation." Proceedings of the Fifth International Valentin Turchin Workshop on Metacomputation/ed. by A. Klimov, S. Romanenko.—Pereslavl-Zalessky, Russia: Pereslavl Zalessky: Publishing House” University of Pereslavl. 2016. $${\textbf{\color{crimson}advanced}}$$
-   <br>[URL](http://meta2016.pereslavl.ru/papers/2016_Proceedings_of_the_Fifth_International_Valentin_Turchin_Workshop_on_Metacomputation.pdf#page=52), [webarchive](#) XXX
+   <br>[URL](http://meta2016.pereslavl.ru/papers/2016_Proceedings_of_the_Fifth_International_Valentin_Turchin_Workshop_on_Metacomputation.pdf#page=52), [webarchive](http://web.archive.org/web/20250511224105/http://meta2016.pereslavl.ru/papers/2016_Proceedings_of_the_Fifth_International_Valentin_Turchin_Workshop_on_Metacomputation.pdf#page=52)
 
 ### 2017
 
