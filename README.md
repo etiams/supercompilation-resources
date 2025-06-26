@@ -81,6 +81,11 @@ This is a collection of resources for studying supercompilation & its applicatio
  - Korlyukov, A. V., and Andrei P. Nemytykh. "Supercompilation of Double Interpretation. (How One Hour of the Machine’s Time Can Be Turned to One Second)." 2002 $${\textbf{\color{violet}inspirational}}$$
    <br>[URL](http://refal.net/~korlukov/scp2int/Karliukou_Nemytykh.pdf), [webarchive](http://web.archive.org/web/20250513183950/http://www.refal.net/~korlukov/scp2int/Karliukou_Nemytykh.pdf)
 
+### 2003
+
+ - Nemytykh, Andrei P. "The supercompiler SCP4: general structure." International Andrei Ershov Memorial Conference on Perspectives of System Informatics. Berlin, Heidelberg: Springer Berlin Heidelberg, 2003.
+   <br>[URL](http://www.botik.ru/PSI/RCMS/publications/publ-texts/06-Nemytykh-The-Supercompiler-p-449.pdf), [webarchive](http://web.archive.org/web/20240421003023/http://www.botik.ru/PSI/RCMS/publications/publ-texts/06-Nemytykh-The-Supercompiler-p-449.pdf)
+
 ### 2008
 
  - Klimov, Andrei Valentinovich. "A program specialization relation based on supercompilation and its properties." Препринты Института прикладной математики им. МВ Келдыша РАН 0 (2008): 26-28.
